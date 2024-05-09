@@ -285,6 +285,7 @@ wireframes, mockups, diagrams and prototypes.
 - [ ] [Precursor](https://precursorapp.com) - A real-time collaborative prototyping tool
 - [ ] [LaunchKit](https://github.com/launchkit/launchkit/) - A set of web-based tools for mobile app developers, now open source!
 - [ ] [StartupResources.io](https://startupresources.io/) - Tightly curated lists of the best startup tools
+- [ ] [Growf AI](https://www.growf.io/) - AI-powered marketing consultant that helps you research your audience, and target them using LinkedIn Ads or SEO.
 
 ## Team Management
 - [ ] [Airtable](https://airtable.com) - Spreadsheet, meet database.
